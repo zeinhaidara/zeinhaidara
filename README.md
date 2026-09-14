@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**zeinhaidara/zeinhaidara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Moulaye Zein Haidara
+Cloud Engineer | Linux Systems | DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building secure, automated cloud infrastructure and deployment platforms.
+
+Core:
+Linux • Azure • AWS • Terraform • Ansible
+Docker • Kubernetes • CI/CD • Python • Bash
+
+Featured Projects
+
+Meridian Claims Platform
+Production-style Azure platform using Terraform, AKS, ACR,
+private networking, RBAC, Key Vault, observability and CI/CD.
+
+AI Cloud Operations Platform
+Cloud operations platform combining infrastructure automation,
+monitoring and AI-assisted incident analysis.
+
+Linux Systems Engineering
+RHEL/Linux administration, Ansible automation, networking,
+security, services and system operations.
