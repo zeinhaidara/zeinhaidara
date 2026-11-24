@@ -1,5 +1,3 @@
-# Moulaye Zein Haidara
-
 Senior cloud, DevSecOps and Linux engineer. I build platforms on AWS, Azure and GCP with Terraform, Kubernetes and pipelines that authenticate with short-lived credentials.
 
 **Portfolio:** https://zeinhaidara.github.io/cloud-portfolio/
